@@ -1,0 +1,62 @@
+Iteration Unit Test
+
+Function: sum of squares
+Argument(s): 0    Success! +1
+Argument(s): 3    Success! +1
+Argument(s): 3 33 333  Incorrect! No point!
+
+Function: factorial
+Argument(s): 0    Success! +1
+Argument(s): 1    Success! +1
+Argument(s): 2    Success! +1
+Argument(s): 12    Success! +1
+
+Function: sumtorial
+Argument(s): 0    Success! +1
+Argument(s): 1    Success! +1
+Argument(s): 2    Success! +1
+Argument(s): 12    Success! +1
+
+Function: sum n odds
+Argument(s): 0    Success! +1
+Argument(s): 1    Success! +1
+Argument(s): 2    Success! +1
+Argument(s): 144    Success! +1
+
+Function: sum odds to n
+Argument(s): 0    Success! +1
+Argument(s): 1    Success! +1
+Argument(s): 3    Success! +1
+Argument(s): 20737    Success! +1
+
+Function: fibonacci sequence
+Argument(s): 3    Success! +1
+Argument(s): 30    Success! +1
+Argument(s): 300    Success! +1
+
+Function: harmonic series
+Argument(s): 1    Success! +1
+Argument(s): 10    Success! +1
+Argument(s): 100    Success! +1
+Argument(s): 1000    Success! +1
+
+Function: pi approximated
+Argument(s): 1    Success! +1
+Argument(s): 100    Success! +1
+Argument(s): 10000    Success! +1
+Argument(s): 1000000    Success! +1
+
+Function: addition
+Argument(s): 123 456    Success! +1
+
+Function: multiplication
+Argument(s): 123 456    Success! +1
+
+Function: exponentiation
+Argument(s): 12 7    Success! +1
+
+Function: tetration
+Argument(s): 2 4  Crash! No point!
+
+
+Final Score: 32/34
