@@ -12,6 +12,7 @@ def neither_nor(x, y):
     if x == False and y == False:
         return True
     else:
+
         return False
 
 
@@ -35,6 +36,33 @@ def tri_test(a, b, c):
             return True
     else:
         return False
+
+
+
+
+
+
+def letter_grade(num_grade):
+    if num_grade >= 90:
+        grade = 'A'
+    elif num_grade >= 80:
+        grade = 'B'
+    elif num_grade >= 70:
+        grade = 'C'
+    elif num_grade >= 60:
+        grade = 'D'
+    else:
+        grade = 'F'
+    return grade
+
+
+def tri_test(a, b, c):
+    if (a+b) > c:
+        if (a+c) > b:
+            return True
+    else:
+        return False
+
 
 
 def order_three(a, b, c):
@@ -76,4 +104,40 @@ def digit_count(x):
         return 6
     elif x <= 9999999:
         return 7
+
+
+def leap_year(y):
+    x = y % 4
+    z = y % 400
+    if x > 0:
+        return False
+    elif z > 0:
+        return False
+    else:
+        return True
+
+
+def is_prime(num):
+    for i in range(2, num):
+        if (num % i) == 0:
+            return False
+            break
+    else:
+        return True
+
+
+def prime_list(num):
+    lst = []
+    for possiblePrime in range(2, num):
+        prime = True
+        for num in range(2, possiblePrime):
+            if possiblePrime % num == 0:
+                isPrime = False
+                break
+        if prime:
+            lst.append(possiblePrime)
+
+    return lst
+
+
 
