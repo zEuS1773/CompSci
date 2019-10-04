@@ -1,62 +1,93 @@
-Iteration Unit Test
+Selection Unit Test
 
-Function: sum of squares
-Argument(s): 0    Success! +1
-Argument(s): 3    Success! +1
-Argument(s): 3 33 333  Incorrect! No point!
+Function: implies
+Argument(s): True True    Success! +1
+Argument(s): True False    Success! +1
+Argument(s): False True    Success! +1
+Argument(s): False False    Success! +1
 
-Function: factorial
-Argument(s): 0    Success! +1
+Function: neither nor
+Argument(s): True True    Success! +1
+Argument(s): True False    Success! +1
+Argument(s): False True    Success! +1
+Argument(s): False False    Success! +1
+
+Function: letter grades
+Argument(s): -1    Success! +1
+Argument(s): 100    Success! +1
+Argument(s): 72    Success! +1
+
+Function: can it be a triangle
+Argument(s): -1 1 1    Success! +1
+Argument(s): 1 1 1    Success! +1
+Argument(s): 5 11 6    Success! +1
+
+Function: order three
+Argument(s): 1 1 1    Success! +1
+Argument(s): 1 2 3    Success! +1
+Argument(s): 0 -1 1    Success! +1
+
+Function: triangle test - right, acute or obtuse
+Argument(s): 12 5 12    Success! +1
+Argument(s): 12 5 14    Success! +1
+Argument(s): 13 5 12    Success! +1
+
+Function: digit count
 Argument(s): 1    Success! +1
-Argument(s): 2    Success! +1
 Argument(s): 12    Success! +1
+Argument(s): 123456    Success! +1
 
-Function: sumtorial
-Argument(s): 0    Success! +1
-Argument(s): 1    Success! +1
-Argument(s): 2    Success! +1
-Argument(s): 12    Success! +1
-
-Function: sum n odds
-Argument(s): 0    Success! +1
-Argument(s): 1    Success! +1
-Argument(s): 2    Success! +1
-Argument(s): 144    Success! +1
-
-Function: sum odds to n
-Argument(s): 0    Success! +1
-Argument(s): 1    Success! +1
-Argument(s): 3    Success! +1
-Argument(s): 20737    Success! +1
-
-Function: fibonacci sequence
-Argument(s): 3    Success! +1
-Argument(s): 30    Success! +1
+Function: leap year
+Argument(s): 400    Success! +1
+Argument(s): 201    Success! +1
 Argument(s): 300    Success! +1
+Argument(s): 304    Success! +1
 
-Function: harmonic series
+Function: square root
+Argument(s): 0    Success! +1
 Argument(s): 1    Success! +1
-Argument(s): 10    Success! +1
-Argument(s): 100    Success! +1
-Argument(s): 1000    Success! +1
+Argument(s): 12    Success! +1
+Argument(s): 5159780352    Success! +1
 
-Function: pi approximated
+Function: is it prime
 Argument(s): 1    Success! +1
+Argument(s): 2    Success! +1
+Argument(s): 3    Success! +1
+Argument(s): 4    Success! +1
+Argument(s): 104729    Success! +1
+Argument(s): 123456789    Success! +1
+
+Function: prime list
+Argument(s): 1    Success! +1
+Argument(s): 12    Success! +1
 Argument(s): 100    Success! +1
-Argument(s): 10000    Success! +1
-Argument(s): 1000000    Success! +1
 
-Function: addition
-Argument(s): 123 456    Success! +1
+Function: hailstone sequence
+Argument(s): 1    Success! +1
+Argument(s): 2    Success! +1
+Argument(s): 3    Success! +1
+Argument(s): 27    Success! +1
 
-Function: multiplication
-Argument(s): 123 456    Success! +1
+Function: least common multiple
+Argument(s): 1 1    Success! +1
+Argument(s): 1 3    Success! +1
+Argument(s): 12 15    Success! +1
+Argument(s): 23 99    Success! +1
 
-Function: exponentiation
-Argument(s): 12 7    Success! +1
+Function: greatest common factor
+Argument(s): 1 1    Success! +1
+Argument(s): 12 15    Success! +1
+Argument(s): 99 23    Success! +1
+Argument(s): 561 1938    Success! +1
 
-Function: tetration
-Argument(s): 2 4  Crash! No point!
+Function: reduce fraction
+Argument(s): 1 1    Success! +1
+Argument(s): 1 3    Success! +1
+Argument(s): 12 15    Success! +1
 
+Function: add fractions
+Argument(s): 1 1 1 1    Success! +1
+Argument(s): 1 2 1 3    Success! +1
+Argument(s): 12 17 27 219    Success! +1
 
-Final Score: 32/34
+Final Score: 58/58
