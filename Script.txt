@@ -62,4 +62,13 @@ and programs to ensure a good cheater-free envirement.
 
 [Screen] Untrusted bans
 
+[Voice] Untrusted bans also come up as game bans on somebody's profile. This is caused by the cheat sending invailid packets to
+the server, speedhack, worldesp, etc. This usally is an instant ban. People who have an untrusted ban, are probably really not smart, because most cheats have a flag that makes sure people dont get untrusted banned. 
 
+[Screen] Manual Bans
+
+[Voice] This next topic is sort of rocky, because this is a common debate in the modern cheating community. There is really no solid, rock hard evidense that any youtuber, or cheater has been manual banned. If they are real, they are not common at all, and rarely happen. 
+
+[Screen] Community Bans
+
+[Voice] Community bans have nothing to do with CS:GO. A community strike/ban/limitations are given out by steam community moderators. Infractions include, crude name, NSFW profile picture, or name, etc. These bans would only effect your trust factor. Which is a whole nother topic.
