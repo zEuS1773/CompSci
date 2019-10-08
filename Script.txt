@@ -32,50 +32,114 @@ SECTION 3: The differnt types of cheats
 
 3 - Hardware Modifications
 
-Secntion 4: Why do people cheat
+SECTION 4: Why do people cheat
 
 1 - Different reasons why, such as hiding from OW, because bad, or winning a bet
+
+SECTION 5:
+
+1 - People who cheat just ruin the game for everyone else
 
 Intro:
 Hey guys, today we wanted to share some of our knowlege as cheaters of CS:GO.
 Our group has a combined experiance of over 10 years, and we think that we can share some of our knowlege as the bad guys.
-If you guys are just here to dislike the video, you'll find that we dont ruin the game for normal players if you watch the entire video,.
-So that being said, please make sure to watch the entire video, before making the decision to dislike and comment something negative.
+If you guys are just here to dislike the video, you'll find that we dont ruin the game for normal players if you watch the entire 
+video,.
+So that being said, please make sure to watch the entire video, before making the decision to dislike and comment something 
+negative.
 
 Section 1:
 
 [Screen] The differance between overwatch bans, and VAC bans.
 
 [Voice] There is a huge misconception in the modern day community about the differant ways Valve hands out bans.
-valve anti-cheat, better known as VAC is the valve's in-built anti cheat system. We will get into more detail of why VAC doesnt work.
-Overwatch is the community's anti cheat. This is based off of trusted accounts being able to review demos or recordings of games that 
+valve anti-cheat, better known as VAC is the valve's in-built anti cheat system. We will get into more detail of why VAC doesnt 
+work.
+Overwatch is the community's anti cheat. This is based off of trusted accounts being able to review demos or recordings of games
+that 
 have suspected cheaters.
 A VAC ban on somebody's profile means they were banned the by the in-built anticheat system.
 A gameban on record, means the person or suspect was banned by overwatch.
 
 [Screen] Why VAC is the worst anticheat. (No really, its the worst.)
 
-[Voice] Valve anti cheat works in a way that no other anticheat does. VAC is a non-intrusive anti-cheat that does not scan any running 
-programs. It will only scan Signatures of programs, which can be modified heavily to avoid detection by cheat coders. One line of code 
-can mean detection or not if it comes to the specific signature getting detected. Other anti-cheats such as Battleye, or EAC, scan files 
+[Voice] Valve anti cheat works in a way that no other anticheat does. VAC is a non-intrusive anti-cheat that does not scan any 
+running 
+programs. It will only scan Signatures of programs, which can be modified heavily to avoid detection by cheat coders. One line of 
+code 
+can mean detection or not if it comes to the specific signature getting detected. Other anti-cheats such as Battleye, or EAC, scan
+files 
 and programs to ensure a good cheater-free envirement.
 
 [Screen] Untrusted bans
 
 [Voice] Untrusted bans also come up as game bans on somebody's profile. This is caused by the cheat sending invailid packets to
-the server, speedhack, worldesp, etc. This usally is an instant ban. People who have an untrusted ban, are probably really not smart, because most cheats have a flag that makes sure people dont get untrusted banned. 
+the server, speedhack, worldesp, etc. This usally is an instant ban. People who have an untrusted ban, are probably really not 
+smart, because most cheats have a flag that makes sure people dont get untrusted banned. 
 
 [Screen] Manual Bans
 
-[Voice] This next topic is sort of rocky, because this is a common debate in the modern cheating community. There is really no solid, rock hard evidense that any youtuber, or cheater has been manual banned. If they are real, they are not common at all, and rarely happen. 
+[Voice] This next topic is sort of rocky, because this is a common debate in the modern cheating community. There is really no 
+solid, rock hard evidense that any youtuber, or cheater has been manual banned. If they are real, they are not common at all, and 
+rarely happen. 
 
 [Screen] Community Bans
 
-[Voice] Community bans have nothing to do with CS:GO. A community strike/ban/limitations are given out by steam community moderators. Infractions include, crude name, NSFW profile picture, or name, etc. These bans would only effect your trust factor. Which is a whole nother topic.
+[Voice] Community bans have nothing to do with CS:GO. A community strike/ban/limitations are given out by steam community 
+moderators. Infractions include, crude name, NSFW profile picture, or name, etc. These bans would only effect your trust factor.
+Which is a whole nother topic.
 
 
 Section 2: 
 
 [Screen] The different types of cheaters
+[Screen] Legit Cheaters
+[Voice] There are many denominations of cheaters in Counter-Strike. There are 3 main types however. A legit cheater, will not got 
+blatant at all. They will not sacrafice there account in order for them to win. They are extremly 'closet' like in there cheating
+ways. Most of the time, they are really hard to spot, and normally dont draw attention to themslelves.
 
-[Voice] There are many denominations of cheaters in Counter-Strike. There are 3 main types however. A legit cheater, will not got blatant at all. They will not sacrafice there account in order for them to win. They are extremly 'closet' like in there cheating ways. Most of the time, they are really hard to spot, and normally dont draw attention to themslelves.
+[Screen] Legit HVHers
+[Voice] This is the worst kind of cheater, they will walk into a matchmaking game and shoot you through walls, have an anti-aim,
+be fairly blatant with there cheats. Normally these people are really easy to spot, they know where people are, and they have a 
+rage type of aimbot. These people dont really care about there CS:GO account.
+
+[Screen]HVHers
+[Voice] These are people who only play or cheat against other hackers. Most of the time this takes place in a community server,
+dedicated to HVH. Alot of non-cheating CSGO community members think these people are the best type of cheaters because they dont
+ruin the game for anybody else.
+
+Section 3:
+[Screen] Different types of cheats
+[Screen] Internal Cheats
+[Voice] There are a few different types of cheats that are available for cheaters to use. One of those is called an internal 
+cheat. This is something you inject into the game, and has a ton of features. This would be the easiest to detect, because it has
+the biggest footprint.
+
+[Screen] External Cheats
+[Voice] External cheats have alot less features then internal cheats do. They cant actually read most of the memory in the game. 
+
+Most of the time, somebody using an external has Walls, Bhop, and a Radar cheat. If its more advanced then they will have more 
+features. This would be run by just haveing an EXE file that you run. 
+
+[Screen] Hardware Modifications/Cheats
+[Voice] The most undetected type of cheat is a hardware modification. This is modding your computer, your some of your periphals,
+
+such as mouse and keyboard, to gain an advantage over another player. These are very limited however, and could probably only give
+you a non-configureable wallhack or radar cheat. These are speculated to what the pros use, because they cant really be detected
+other then the hardware being inspected mid-game.
+
+Section 4:
+[Screen] Reasons people cheat in CS:GO
+[Voice] There are a few differnt reasons that differnt people cheat in this game. One of the most popular is them being bad 
+at the game to begin with. They just dont have alot of skill, and they want to show off and feel acomplished. Another 
+reason that some people use s that cheating is fun. It is. Because of these modern misconceptions, its hilarous to cheaters when 
+you say like, VAC ban incoming. We think you're really stupid when you say something incorrect because you havnt taken the time to 
+educate you're self.
+One of the more popular reasons people cheat, is a game of trying to hide from overwatch, while being fairly blatant. Its fairly
+easy to bypass overwatch if your a good cheater and have the mindset of an overwatcher while your playing.
+The goal is to not get banned, while still going more blatant then you need to.
+
+Section 5:
+[Screen] Cheater personalities
+[Voice] Not everyone who cheats are trying to ruin the game for people who are playing legit. Most of the time, legit players 
+turn to cheating because of valve's poor job of preventing cheating. We still dind fun in the game, and we still want to play, but the only way is buying ESEA, or start cheating. Cheating is honeslty fairly fun, and I would consider just trying it out, maybe on an HVH server. Alot of people only cheat in Community/HVH servers, and not in actual competitive matchmaking.
