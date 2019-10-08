@@ -1,0 +1,65 @@
+////// Script for Modern Misconceptions about the CS:GO cheating scene //////
+
+
+
+
+Topics:
+SECTION 1: different types of bans and how bans work
+
+1 - the difference between vac and overwatch bans.
+
+2 - vac kinda sucks
+
+3 - untrusted bans
+
+4 - manual bans 
+
+5 - community bans
+
+SECTION 2: the differnt types of cheaters
+
+1 - Legit Cheaters
+
+2 - Legit HVHers
+
+3 - HVHers
+
+SECTION 3: The differnt types of cheats
+
+1 - Internal
+
+2 - External
+
+3 - Hardware Modifications
+
+Secntion 4: Why do people cheat
+
+1 - Different reasons why, such as hiding from OW, because bad, or winning a bet
+
+Intro:
+Hey guys, today we wanted to share some of our knowlege as cheaters of CS:GO.
+Our group has a combined experiance of over 10 years, and we think that we can share some of our knowlege as the bad guys.
+If you guys are just here to dislike the video, you'll find that we dont ruin the game for normal players if you watch the entire video,.
+So that being said, please make sure to watch the entire video, before making the decision to dislike and comment something negative.
+
+Section 1:
+
+[Screen] The differance between overwatch bans, and VAC bans.
+
+[Voice] There is a huge misconception in the modern day community about the differant ways Valve hands out bans.
+valve anti-cheat, better known as VAC is the valve's in-built anti cheat system. We will get into more detail of why VAC doesnt work.
+Overwatch is the community's anti cheat. This is based off of trusted accounts being able to review demos or recordings of games that 
+have suspected cheaters.
+A VAC ban on somebody's profile means they were banned the by the in-built anticheat system.
+A gameban on record, means the person or suspect was banned by overwatch.
+
+[Screen] Why VAC is the worst anticheat. (No really, its the worst.)
+
+[Voice] Valve anti cheat works in a way that no other anticheat does. VAC is a non-intrusive anti-cheat that does not scan any running 
+programs. It will only scan Signatures of programs, which can be modified heavily to avoid detection by cheat coders. One line of code 
+can mean detection or not if it comes to the specific signature getting detected. Other anti-cheats such as Battleye, or EAC, scan files 
+and programs to ensure a good cheater-free envirement.
+
+[Screen] Untrusted bans
+
+
