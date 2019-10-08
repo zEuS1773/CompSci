@@ -72,3 +72,10 @@ the server, speedhack, worldesp, etc. This usally is an instant ban. People who 
 [Screen] Community Bans
 
 [Voice] Community bans have nothing to do with CS:GO. A community strike/ban/limitations are given out by steam community moderators. Infractions include, crude name, NSFW profile picture, or name, etc. These bans would only effect your trust factor. Which is a whole nother topic.
+
+
+Section 2: 
+
+[Screen] The different types of cheaters
+
+[Voice] There are many denominations of cheaters in Counter-Strike. There are 3 main types however. A legit cheater, will not got blatant at all. They will not sacrafice there account in order for them to win. They are extremly 'closet' like in there cheating ways. Most of the time, they are really hard to spot, and normally dont draw attention to themslelves.
