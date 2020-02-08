@@ -15,8 +15,3 @@ Extra information:
   - Test Runs are for the auto-grader which you can find the code for at the bottom of every project.
 
 Timestamps / Updates can be found on the commit logs. Most of my code is not easily read by other people.
-
-  Do not steal code. Study it.
-
-
-ALL CREDITS FOR EUCLID GO TO DR. FRANKLIN MASON.
